@@ -1,0 +1,19 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+E:/vivado/my_file/viva_pro/Clock/Clock.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sim_1/new/DigitalClock_Test.v,1596181843,verilog,,,,DigitalClock_Test,,,,,,,,
+E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sim_1/new/Testbench_AC.v,1596179573,verilog,,,,Testbench_AC,,,,,,,,
+E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sim_1/new/Testbench_Switch.v,1596180262,verilog,,,,Testbench_Switch,,,,,,,,
+E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sim_1/new/Testbench_fre.v,1596174277,verilog,,,,Testbench_fre,,,,,,,,
+E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sim_1/new/Testbench_sa.v,1596179076,verilog,,,,Testbench_sa,,,,,,,,
+E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sim_1/new/Testbench_sw.v,1596178169,verilog,,,,Testbench_sw,,,,,,,,
+E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sim_1/new/Testbench_timer.v,1596177686,verilog,,,,Testbench_timer,,,,,,,,
+E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sources_1/new/AlarmClock.v,1596027923,verilog,,E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sources_1/new/DigitalClock.v,,AlarmClock,,,,,,,,
+E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sources_1/new/DigitalClock.v,1596182801,verilog,,E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sources_1/new/FrequencyDivider.v,,DigitalClock,,,,,,,,
+E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sources_1/new/FrequencyDivider.v,1596173723,verilog,,E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sources_1/new/SetAlarm.v,,FrequencyDivider,,,,,,,,
+E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sources_1/new/SetAlarm.v,1596027925,verilog,,E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sources_1/new/StopWatch.v,,SetAlarm,,,,,,,,
+E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sources_1/new/StopWatch.v,1596027927,verilog,,E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sources_1/new/Switch.v,,StopWatch,,,,,,,,
+E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sources_1/new/Switch.v,1596083659,verilog,,E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sources_1/new/Timer.v,,Decoder;Switch,,,,,,,,
+E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sources_1/new/Timer.v,1596177459,verilog,,E:/vivado/my_file/viva_pro/Clock/Clock.srcs/sim_1/new/DigitalClock_Test.v,,Timer,,,,,,,,

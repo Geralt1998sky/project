@@ -1,0 +1,1 @@
+-wto "649345c80e1a41c6a47aed9f8fba1efc" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "DigitalClock_Test_behav" "xil_defaultlib.DigitalClock_Test" "xil_defaultlib.glbl" -log "elaborate.log" 

@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Jul 31 16:51:38 2020
+# Process ID: 15336
+# Current directory: C:/Users/73472/Desktop/FPGA/Clock
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13820 C:\Users\73472\Desktop\FPGA\Clock\Clock.xpr
+# Log file: C:/Users/73472/Desktop/FPGA/Clock/vivado.log
+# Journal file: C:/Users/73472/Desktop/FPGA/Clock\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/73472/Desktop/FPGA/Clock/Clock.xpr
+INFO: [Project 1-313] Project file moved from 'E:/vivado/my_file/viva_pro/Clock' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/vivado/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:21 . Memory (MB): peak = 795.336 ; gain = 200.555
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Jul 31 19:03:16 2020...
